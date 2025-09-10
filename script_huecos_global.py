@@ -19,18 +19,20 @@ class Coleccion:
 
 # Definir la clase Hueco
 class Hueco:
-    def __init__(self, nombre, fecha_venta, grupo_compra, precio, atributo, profundidad):
+    # def __init__(self, nombre, fecha_venta, grupo_compra, precio, atributo, profundidad):
+    def __init__(self, nombre, fecha_venta, grupo_compra, atributo):
         self.nombre = nombre
         self.fecha_venta = fecha_venta
         self.grupo_compra = grupo_compra
-        self.precio = precio
+        # self.precio = precio
         self.atributo = atributo
-        self.profundidad = profundidad
+        # self.profundidad = profundidad
 
     def __repr__(self):
         return (f"Hueco(nombre={self.nombre}, fecha_venta={self.fecha_venta}, "
-                f"grupo_compra={self.grupo_compra}, precio={self.precio}, "
-                f"atributo={self.atributo}, profundidad={self.profundidad})")
+        #         f"grupo_compra={self.grupo_compra}, precio={self.precio}, "
+        #         f"atributo={self.atributo}, profundidad={self.profundidad})")
+                f"grupo_compra={self.grupo_compra}, atributo={self.atributo})")
 
 # Diccionario de equivalencias de URNs para grupos compradores
 urns_grupo_comprador = {
@@ -72,7 +74,7 @@ def obtener_token():
 import uuid
 
 def crear_coleccion_api(coleccion, token, campaign_urn, base_url):
-    url = f"{base_url}/icbcdcd/collection-management/api/v4/collections"
+    url = f"{base_url}/icdmdscol/api/v4/collections"
     headers = {
         "Authorization": f"Bearer {token}",
         "Content-Type": "application/json"
@@ -99,18 +101,18 @@ def crear_coleccion_api(coleccion, token, campaign_urn, base_url):
 
 # Función para crear un hueco a través del API
 def crear_hueco_api(hueco, token, base_url, collection_id, campaign_urn):
-    url = f"{base_url}/icbcpurpla/assortment-planning/purchase-variables"  # Endpoint del API
+    url = f"{base_url}/icbcpupla/v1/assortment-planning/purchase-variables"  # Endpoint del API
     headers = {"Authorization": f"Bearer {token}", "Content-Type": "application/json"}
     attribute_urn = urns_atributos.get(hueco.atributo, "")
     payload = {
         "name": hueco.nombre,
-        "price": hueco.precio,
+        # "price": hueco.precio,
         "collectionId": collection_id,
         "categories": [attribute_urn],  # URN relativa al atributo
         "campaigns": [campaign_urn],
         "objectivePlans": [{
-            "launchDate": hueco.fecha_venta.strftime("%Y-%m-%d"),
-            "buyDepth": hueco.profundidad,
+            "launchDate": hueco.fecha_venta.strftime("%Y-%m-%dT00:00:00Z"),
+            "buyDepth": 0,
             "timeDimension": campaign_urn,
             "positionDimension": "urn:MARKET:2d87237e-2503-46c5-8eee-9f4dbe6c789c"
         }]
@@ -123,7 +125,7 @@ def crear_hueco_api(hueco, token, base_url, collection_id, campaign_urn):
         print(url)
 
 # Cargar el archivo Excel y seleccionar la hoja "LISTADO MCC"
-file_path = 'GLB ESTIMACIÓN VENTA V26 20250721.xlsx'
+file_path = 'GLB ESTIMACIÓN VENTA V26 20250908.xlsx'
 df = pd.read_excel(file_path, sheet_name='LISTADO MCC', skiprows=1)  # Ajusta el número de filas a saltar si es necesario
 
 # Diccionario para almacenar las colecciones
@@ -138,10 +140,10 @@ for index, row in df.iterrows():
     if pd.notna(nombre_coleccion):  # Verificar que el campo "Colección" no esté vacío
         fecha_venta = row['Fecha en tienda']  # Ajusta el nombre de la columna según corresponda
         grupo_compra = row['Grupo Comprador']  # Ajusta el nombre de la columna según corresponda
-        precio = row['PVP Venta']  # Ajusta el nombre de la columna según corresponda
+        # precio = row['PVP Venta']  # Ajusta el nombre de la columna según corresponda
         nombre = row['Descripción']  # Ajusta el nombre de la columna según corresponda
         atributo = row['Atributo']  # Ajusta el nombre de la columna según corresponda
-        profundidad = row['Compra total']  # Ajusta el nombre de la columna según corresponda
+        # profundidad = row['Compra total']  # Ajusta el nombre de la columna según corresponda
 
         # Crear o actualizar la colección
         if nombre_coleccion not in colecciones_dict:
@@ -153,7 +155,8 @@ for index, row in df.iterrows():
             coleccion = colecciones_dict[nombre_coleccion]
 
         # Crear el hueco y añadirlo a la colección
-        hueco = Hueco(nombre, fecha_venta, grupo_compra, precio, atributo, profundidad)
+        # hueco = Hueco(nombre, fecha_venta, grupo_compra, precio, atributo, profundidad)
+        hueco = Hueco(nombre, fecha_venta, grupo_compra, atributo)
         coleccion.add_hueco(hueco)
 
 # Crear un archivo de texto con el resultado de la ejecución
@@ -162,14 +165,13 @@ with open('resultado_colecciones.txt', 'w') as file:
     for coleccion in colecciones_dict.values():
         file.write(f"Colección: {coleccion.nombre}\n")
         file.write(f"Fecha de Venta: {coleccion.fecha_venta}\n")
-        file.write(f"Número de Huecos: {len(coleccion.huecos)}\n")
         file.write(f"Grupo de compra: {coleccion.grupo_compra}\n")
         file.write(f"Número de Huecos: {len(coleccion.huecos)}\n")
         for hueco in coleccion.huecos:
             file.write(
                 f"  - Hueco: {hueco.nombre}, Fecha Venta: {hueco.fecha_venta}, "
-                f"Grupo Compra: {hueco.grupo_compra}, Precio: {hueco.precio}, "
-                f"Atributo: {hueco.atributo}, Profundidad: {hueco.profundidad}\n"
+                f"Grupo Compra: {hueco.grupo_compra},  "
+                f"Atributo: {hueco.atributo}\n"
             )
         file.write("\n")
 
