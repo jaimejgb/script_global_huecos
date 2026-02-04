@@ -1,6 +1,13 @@
 import pandas as pd
 import requests
 
+nColecciones = 0
+nHuecos = 0
+nHuecosError = 0
+nColeccionesError = 0
+
+ids_log_file = "ids_creados.txt"
+
 # Definir la clase Coleccion
 class Coleccion:
     def __init__(self, nombre, fecha_venta, grupo_compra, id_coleccion):
@@ -74,6 +81,8 @@ def obtener_token():
 import uuid
 
 def crear_coleccion_api(coleccion, token, campaign_urn, base_url):
+    global nColecciones, nColeccionesError
+
     url = f"{base_url}/icdmdscol/api/v4/collections"
     headers = {
         "Authorization": f"Bearer {token}",
@@ -94,35 +103,52 @@ def crear_coleccion_api(coleccion, token, campaign_urn, base_url):
     }
     response = requests.post(url, headers=headers, json=payload)
     if response.status_code == 201:
-        print(f"Colección '{coleccion.nombre}' creada con éxito.")
+        # print(f"Colección '{coleccion.nombre}' creada con éxito.")
         coleccion.id_coleccion = coleccion_id  # Actualiza el id en el objeto
+        nColecciones += 1
+        with open(ids_log_file, "a", encoding="utf-8") as f:
+            f.write(f"COLECCION: {coleccion.nombre} | ID: {coleccion_id}\n")
     else:
         print(f"Error al crear la colección '{coleccion.nombre}': {response.status_code} - {response.text}")
+        nColeccionesError += 1
 
 # Función para crear un hueco a través del API
 def crear_hueco_api(hueco, token, base_url, collection_id, campaign_urn):
+    global nHuecos, nHuecosError
+
     url = f"{base_url}/icbcpupla/v1/assortment-planning/purchase-variables"  # Endpoint del API
     headers = {"Authorization": f"Bearer {token}", "Content-Type": "application/json"}
     attribute_urn = urns_atributos.get(hueco.atributo, "")
     payload = {
-        "name": hueco.nombre,
-        # "price": hueco.precio,
-        "collectionId": collection_id,
-        "categories": [attribute_urn],  # URN relativa al atributo
-        "campaigns": [campaign_urn],
+        "productPlaceholder": {
+            "name": hueco.nombre,
+            # "price": 0,
+            "collectionId": collection_id,
+            "categories": [attribute_urn],  # URN relativa al atributo
+            "campaigns": [campaign_urn],
+        },
         "objectivePlans": [{
             "launchDate": hueco.fecha_venta.strftime("%Y-%m-%dT00:00:00Z"),
-            "buyDepth": 0,
+            # "buyDepth": 0,
             "timeDimension": campaign_urn,
             "positionDimension": "urn:MARKET:2d87237e-2503-46c5-8eee-9f4dbe6c789c"
         }]
     }
     response = requests.post(url, headers=headers, json=payload)
     if response.status_code == 201:
-        print(f"Hueco '{hueco.nombre}' creado con éxito.")
+        try:
+            hueco_id = response.json().get("id", "NO_ID")
+        except Exception:
+            hueco_id = "NO_ID"
+
+        # print(f"Hueco '{hueco.nombre}' creado con éxito.")
+        nHuecos += 1
+        with open(ids_log_file, "a", encoding="utf-8") as f:
+            f.write(f"- HUECO: {hueco.nombre} | ID: {hueco_id}\n")
     else:
-        print(f"Error al crear el hueco '{hueco.nombre}': {response.status_code} - {response.text}")
+        print(f"Error {response.status_code} - {response.text} al crear el hueco {payload}")
         print(url)
+        nHuecosError += 1
 
 # Cargar el archivo Excel y seleccionar la hoja "LISTADO MCC"
 file_path = 'GLB ESTIMACIÓN VENTA V26 20250908.xlsx'
@@ -130,9 +156,6 @@ df = pd.read_excel(file_path, sheet_name='LISTADO MCC', skiprows=1)  # Ajusta el
 
 # Diccionario para almacenar las colecciones
 colecciones_dict = {}
-
-print(df.keys)
-print(df.columns)
 
 # Crear colecciones y huecos
 for index, row in df.iterrows():
@@ -183,6 +206,8 @@ confirmacion = input("¿Deseas proceder con la creación de las colecciones y hu
 # Llamar a las APIs si se confirma
 if confirmacion.lower() == 'sí':
     token = obtener_token()
+    total_colecciones = len(colecciones_dict)
+    total_huecos = sum(len(coleccion.huecos) for coleccion in colecciones_dict.values())
     if token:
         # Definir la base URL según el entorno
         entorno = input("Indica el entorno (PRE/PRO): ").strip().upper()
@@ -194,5 +219,7 @@ if confirmacion.lower() == 'sí':
             # Crear huecos
             for hueco in coleccion.huecos:
                 crear_hueco_api(hueco, token, base_url, coleccion.id_coleccion, campaign_urn)
+                print(f"Colecciones creadas {nColecciones} de {total_colecciones}. Huecos creados: {nHuecos} de {total_huecos}", end='\r', flush=True)
+        print("Operación finalizada. {nColecciones} colecciones creadas y {nHuecos} huecos creados")
 else:
     print("Operación cancelada.")
