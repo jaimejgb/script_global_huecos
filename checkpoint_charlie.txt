@@ -1,0 +1,29 @@
+Huecos encontrados: 10
+
+Hueco: *[GLB.G.A. PANTALON PINZA BOTON OCULTO (CHAMBRAY & GREEN)] | Fecha de venta: 2026-02-09T00:00:00Z
+  -> Colección: No encontrada
+----------------------------------------
+Hueco: G.A. EABC - PRODUCTIMPLEMENT - 0001 | Fecha de venta: None
+  -> Colección: No encontrada
+----------------------------------------
+Hueco: G.A. SEMIJOGGER PINZA ESTRUCTURA | Fecha de venta: 2026-02-16T00:00:00Z
+  -> Colección: No encontrada
+----------------------------------------
+Hueco: SIN COLOR CARLOTA | Fecha de venta: None
+  -> Colección: No encontrada
+----------------------------------------
+Hueco: G.A. SET SOFT OVERSHIRT | Fecha de venta: 2026-01-12T00:00:00Z
+  -> Colección: No encontrada
+----------------------------------------
+Hueco: G.A. CAZADORA PU CREMALLERA | Fecha de venta: 2026-02-02T00:00:00Z
+  -> Colección: No encontrada
+----------------------------------------
+Hueco: G.A. CAMISA M/L COLECCIÓN | Fecha de venta: 2026-02-02T00:00:00Z
+  -> Colección: G.A. FEBRERO 1 | Fecha de primera venta: 2026-02-02
+----------------------------------------
+Hueco: G.A. SOBRECAMISA ANTELINA DOS BOLSILLOS | Fecha de venta: 2025-12-08T00:00:00Z
+  -> Colección: No encontrada
+----------------------------------------
+Hueco: G.A. BERMUDA CANVAS (THE ART OF WORK) | Fecha de venta: 2026-03-19T00:00:00Z
+  -> Colección: No encontrada
+----------------------------------------

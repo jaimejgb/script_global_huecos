@@ -1,0 +1,770 @@
+Colecciones, Fecha de Venta y Huecos:
+
+Colección: G.A. ENERO 1
+Fecha de Venta: 2026-01-05 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 7
+  - Hueco: G.A. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-01-05 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.A. SOBRECAMISA SET AZULON (NEGRO AZULON), Fecha Venta: 2026-01-05 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.A. SEMIJOGGER PANA (NEGRO AZULON), Fecha Venta: 2026-01-05 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-01-05 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. CAZADORA PAÑO RIB BAJO (ENERO 1), Fecha Venta: 2026-01-05 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.A. PEACOAT (ENERO 1), Fecha Venta: 2026-01-05 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.A. CAZADORA PANA (ENERO 1), Fecha Venta: 2026-01-05 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.A. ENERO 2
+Fecha de Venta: 2026-01-19 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 8
+  - Hueco: G.A. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-01-19 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-01-19 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-01-19 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. CAZADORA BEIGE BORREGO INTERIOR (ENERO 2), Fecha Venta: 2026-01-19 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-01-19 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-01-19 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-01-19 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.A. CHALECO COLECCIÓN, Fecha Venta: 2026-01-19 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CHALECO
+
+Colección: G.A. FEBRERO 1
+Fecha de Venta: 2026-02-02 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 12
+  - Hueco: G.A. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.A. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. SOBRECAMISA COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.A. PANTALON COLECCION (E) CALOR, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON COLECCION (E) CALOR, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.A. FEBRERO STAPLES
+Fecha de Venta: 2026-02-12 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 6
+  - Hueco: G.A. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-02-12 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.A. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-02-12 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-02-12 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-02-12 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-12 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-12 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.A. FEBRERO 2
+Fecha de Venta: 2026-02-23 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 10
+  - Hueco: G.A. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-02-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-02-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-02-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-02-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. SOBRECAMISA COLECCIÓN, Fecha Venta: 2026-02-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-02-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-02-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.A. MARZO 1
+Fecha de Venta: 2026-03-05 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 8
+  - Hueco: G.A. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-03-05 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.A. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-03-05 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-05 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-03-05 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-03-05 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-03-05 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-03-05 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-03-05 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.A. MARZO 2
+Fecha de Venta: 2026-03-16 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 8
+  - Hueco: G.A. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-03-16 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-16 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-16 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-03-16 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-03-16 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. BERMUDA COLECCIÓN, Fecha Venta: 2026-03-16 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - BERMUDA
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-03-16 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-03-16 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.A. A+ MARZO
+Fecha de Venta: 2026-03-23 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 8
+  - Hueco: G.A. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-03-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.A. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-03-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-03-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-03-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. BERMUDA COLECCIÓN, Fecha Venta: 2026-03-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - BERMUDA
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-03-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-03-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.A. ABRIL 1
+Fecha de Venta: 2026-04-02 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 8
+  - Hueco: G.A. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-04-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.A. CAMISA M/C SET ESTR. EN RAYA (NAVY & CLAY) (BLUE LAKE)/COLECCIÓN PERENNE, Fecha Venta: 2026-04-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA M/C ESTAMPADO (BLUE LAKE & EGRET), Fecha Venta: 2026-04-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-04-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-04-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. BERMUDA SET ESTRUCTURA EN RAYA (BLUE LAKE & EGRET), Fecha Venta: 2026-04-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - BERMUDA
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-04-02 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.A. MAYO 1
+Fecha de Venta: 2026-05-04 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 8
+  - Hueco: G.A. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-05-04 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.A. CAMISA M/C CUELLO POLO ESPIGA (FADED CORAL), Fecha Venta: 2026-05-04 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-04 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-04 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. SOBRECAMISA COLECCIÓN, Fecha Venta: 2026-05-04 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-05-04 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. BERMUDA COLECCIÓN, Fecha Venta: 2026-05-04 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - BERMUDA
+  - Hueco: G.A. BERMUDA COLECCIÓN, Fecha Venta: 2026-05-04 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - BERMUDA
+
+Colección: G.A. A+ MAYO
+Fecha de Venta: 2026-05-18 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 8
+  - Hueco: G.A. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-05-18 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.A. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-05-18 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-18 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-05-18 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-05-18 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. BERMUDA COLECCIÓN, Fecha Venta: 2026-05-18 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - BERMUDA
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-05-18 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-05-18 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.A. MAYO 2
+Fecha de Venta: 2026-05-21 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 9
+  - Hueco: G.A. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-05-21 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.A. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-05-21 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN (E) IMAGEN, Fecha Venta: 2026-05-21 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-21 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-21 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-05-21 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-05-21 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. BERMUDA COLECCIÓN, Fecha Venta: 2026-05-21 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - BERMUDA
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-05-21 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.U. FORD BRONCO
+Fecha de Venta: 2026-01-05 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 10
+  - Hueco: G.U. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-01-05 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-01-05 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-01-05 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. SOBRECAMISA COLECCIÓN, Fecha Venta: 2026-01-05 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.U. BRONCO PRINTED PANT (FORD COLLECTION), Fecha Venta: 2026-01-05 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN BÁSICO
+  - Hueco: G.U. PANTALON PANA CARROT (COBALT BLUE), Fecha Venta: 2026-01-05 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. PANTALON COLECCION (E) CALOR, Fecha Venta: 2026-01-05 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. FORD JACQUARD JACKET (FORD), Fecha Venta: 2026-01-05 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. OLD SCHOOL LEATHER JACKET (FORD), Fecha Venta: 2026-01-05 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. MOVE GREY SHEARLING (COBALT BLUE), Fecha Venta: 2026-01-05 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.U. ENERO 2
+Fecha de Venta: 2026-01-15 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 9
+  - Hueco: G.U. CAMISA M/L COLECCIÓN (E) CALOR, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.U. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. BRILLIANT OVERSHIRT J-NECK (CNY), Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.U. PANTALON COLECCIÓN, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. PANTALON COLECCIÓN, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. DEVORE FLOWER JACKET (PINE GREEN), Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. CHALECO COLECCIÓN, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CHALECO
+
+Colección: G.U. MSJ ENERO
+Fecha de Venta: 2026-01-26 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 6
+  - Hueco: G.U. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-01-26 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.U. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-01-26 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.U. PANTALON COLECCIÓN, Fecha Venta: 2026-01-26 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. SET TOXO 2.0 PRINT PANTS, Fecha Venta: 2026-01-26 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-01-26 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. HOME-RUN HOODIE VARSITY, Fecha Venta: 2026-01-26 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.U. FEBRERO 1
+Fecha de Venta: 2026-02-02 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 10
+  - Hueco: G.U. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. SOBRECAMISA COLECCIÓN (E) CALOR, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.U. SOBRECAMISA COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.U. PANTALON COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. PANTALON COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. BERMUDA COLECCIÓN (E) CALOR, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - BERMUDA
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.U. FEBRERO 2
+Fecha de Venta: 2026-02-12 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 7
+  - Hueco: G.U. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-02-12 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.U. SOBRECAMISA PRINT SET TOXO (MSJ DESERT DUNE), Fecha Venta: 2026-02-12 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.U. SET TOXO PRINT PANT (MSJ DESERT DUNE), Fecha Venta: 2026-02-12 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. PANTALON COLECCIÓN, Fecha Venta: 2026-02-12 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-12 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-12 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-12 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.U. MSJ FEBRERO
+Fecha de Venta: 2026-02-19 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 6
+  - Hueco: G.U. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-02-19 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-02-19 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. PANTALON COLECCIÓN, Fecha Venta: 2026-02-19 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. PANTALON COLECCIÓN, Fecha Venta: 2026-02-19 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. CAZADORA ESTAMPADA, Fecha Venta: 2026-02-19 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. CAZADORA ESTAMPADA, Fecha Venta: 2026-02-19 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.U. ABRIL 1
+Fecha de Venta: 2026-03-30 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 7
+  - Hueco: G.U. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-03-30 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-30 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-30 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. SOBRECAMISA COLECCIÓN, Fecha Venta: 2026-03-30 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.U. PANTALON COLECCIÓN, Fecha Venta: 2026-03-30 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. BERMUDA COLECCIÓN, Fecha Venta: 2026-03-30 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - BERMUDA
+  - Hueco: G.U. SHORT TRENCH WORKER JACKET (FELICIA VIOLET), Fecha Venta: 2026-03-30 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. MINERALS DROP 1
+Fecha de Venta: 2026-01-08 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 8
+  - Hueco: G.T. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-01-08 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.T. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-01-08 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-01-08 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-01-08 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-01-08 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-01-08 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-01-08 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-01-08 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. MINERALS DROP 2
+Fecha de Venta: 2026-01-22 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 7
+  - Hueco: G.T. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-01-22 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.T. SOBRECAMISA COLECCIÓN, Fecha Venta: 2026-01-22 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-01-22 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-01-22 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-01-22 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-01-22 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-01-22 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. CAMBIO WEB TREND
+Fecha de Venta: 2026-02-02 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 10
+  - Hueco: G.T. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.T. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.T. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. PREPPY SHAPES
+Fecha de Venta: 2026-02-05 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 9
+  - Hueco: G.T. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-02-05 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-02-05 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-02-05 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-02-05 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-02-05 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-05 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-05 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-05 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-05 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. RAMADAN TREND
+Fecha de Venta: 2026-02-09 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 7
+  - Hueco: G.T. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-02-09 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-02-09 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-02-09 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-02-09 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-02-09 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. BERMUDA COLECCIÓN, Fecha Venta: 2026-02-09 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - BERMUDA
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-09 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. PRIMROSE YELLOWS
+Fecha de Venta: 2026-02-19 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 7
+  - Hueco: G.T. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-02-19 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-02-19 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-02-19 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-19 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-19 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-19 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-19 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. FUTURE VINTAGE
+Fecha de Venta: 2026-03-02 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 14
+  - Hueco: G.T. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.T. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN (E) IMAGEN, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. PANTALON COLECCION (E) CALOR, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCION (E) CALOR, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. BERMUDA COLECCIÓN, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - BERMUDA
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN (E) CALOR, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. DUSTY SPRING
+Fecha de Venta: 2026-03-19 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 8
+  - Hueco: G.T. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-03-19 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-19 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-19 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-19 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-03-19 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. BERMUDA COLECCIÓN, Fecha Venta: 2026-03-19 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - BERMUDA
+  - Hueco: G.T. CAZADORA TENCEL (ARCHIVE BLUES), Fecha Venta: 2026-03-19 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. CAZADORA FLORES BORDADA (ARCHIVE BLUES), Fecha Venta: 2026-03-19 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. ABRIL 1
+Fecha de Venta: 2026-03-30 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 8
+  - Hueco: G.T. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-03-30 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-30 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-30 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-30 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. SOBRECAMISA COLECCIÓN, Fecha Venta: 2026-03-30 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-03-30 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-03-30 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-03-30 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.U. CAMBIO WEB URBAN
+Fecha de Venta: 2026-02-02 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 10
+  - Hueco: G.U. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.U. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.U. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. ENERO (E) CALOR
+Fecha de Venta: 2026-01-08 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 7
+  - Hueco: G.T. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-01-08 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-01-08 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-01-08 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. TENCEL WIDE PANT (ENERO) (E) CALOR, Fecha Venta: 2026-01-08 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCION (E) CALOR, Fecha Venta: 2026-01-08 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN (E) CALOR, Fecha Venta: 2026-01-08 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN (E) CALOR, Fecha Venta: 2026-01-08 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. ABRIL 2
+Fecha de Venta: 2026-04-20 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 7
+  - Hueco: G.T. CAMISA M/L COLECCIÓN, Fecha Venta: 2026-04-20 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA COLECCIÓN
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-20 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-20 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-04-20 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. BERMUDA COLECCIÓN, Fecha Venta: 2026-04-20 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - BERMUDA
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-04-20 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-04-20 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.A. ENERO (E) CALOR
+Fecha de Venta: 2026-01-15 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 11
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN (E) CALOR, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. SOBRECAMISA COLECCIÓN (E) CALOR, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.A. SOBRECAMISA COLECCIÓN (E) CALOR, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.A. SOBRECAMISA COLECCIÓN (E) CALOR, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.A. PANTALON SET ESTRUCTURA (MSJ ENERO) (E) CALOR, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON SET ALGODON LINO (MSJ ENERO) (E) CALOR, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON EFECTO TOALLA (MSJ ENERO) (E) CALOR, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN (E) CALOR, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.A. RAMADAN ATEMPORARY
+Fecha de Venta: 2026-02-09 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 9
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-02-09 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-02-09 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-02-09 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-02-09 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. PANTALON SET ESTRUCTURA (MSJ RAMADAN), Fecha Venta: 2026-02-09 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON ESTRUCTURA NATURAL (MSJ RAMADAN), Fecha Venta: 2026-02-09 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. BERMUDA COLECCIÓN, Fecha Venta: 2026-02-09 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - BERMUDA
+  - Hueco: G.A. BERMUDA COLECCIÓN, Fecha Venta: 2026-02-09 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - BERMUDA
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-09 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.A. MARZO STAPLES
+Fecha de Venta: 2026-03-26 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 6
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-26 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-26 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-26 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. PANTALON RIZO SET (MSJ SAVE)- HILO KIVANS, Fecha Venta: 2026-03-26 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-03-26 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-03-26 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.A. ABRIL STAPLES
+Fecha de Venta: 2026-04-13 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 6
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. SOBRECAMISA COLECCIÓN, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.A. BERMUDA SET SAVE (MSJ SAVE DROP 2) RENOVACIÓN KIVANÇ, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - BERMUDA
+  - Hueco: G.A. BERMUDA SET SAVE (MSJ SAVE DROP 2) RENOVACIÓN KIVANÇ, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - BERMUDA
+
+Colección: G.A. ABRIL 2
+Fecha de Venta: 2026-04-23 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 7
+  - Hueco: G.A. CAMISA M/C RAYA JACQUARD (MOONLESS NIGHT & LIME), Fecha Venta: 2026-04-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. SOBRECAMISA COLECCIÓN, Fecha Venta: 2026-04-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-04-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-04-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. BERMUDA COLECCIÓN, Fecha Venta: 2026-04-23 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - BERMUDA
+
+Colección: G.A. MAYO STAPLES DROP 1
+Fecha de Venta: 2026-05-11 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 8
+  - Hueco: G.A. CAMISA M/C SET RAYAS FONDO CRUDO (MSJ LINO 100%), Fecha Venta: 2026-05-11 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA M/C SET LINO 100% GARMENT DYE (E) .COM, Fecha Venta: 2026-05-11 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA M/C SET LINO 100% GARMENT DYE, Fecha Venta: 2026-05-11 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA M/C SET LINO 100% GARMENT DYE, Fecha Venta: 2026-05-11 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. PANTALON LINO 100% PINZA (MSJ LINO 100%), Fecha Venta: 2026-05-11 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. PANTALON LINO 100% PINZA (MSJ LINO 100%), Fecha Venta: 2026-05-11 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. BERMUDA SET LINO 100% SOBRETINTADO?, Fecha Venta: 2026-05-11 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - BERMUDA
+  - Hueco: G.A. BERMUDA SET LINO 100% SOBRETINTADO?, Fecha Venta: 2026-05-11 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - BERMUDA
+
+Colección: G.A. MAYO STAPLES DROP 2
+Fecha de Venta: 2026-05-25 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 8
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-25 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-25 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-25 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-25 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-05-25 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. BERMUDA SET LINO 100% SOBRETINTADO (MSJ LINO 100%) (E) .COM, Fecha Venta: 2026-05-25 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - BERMUDA
+  - Hueco: G.A. BERMUDA COLECCIÓN, Fecha Venta: 2026-05-25 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - BERMUDA
+  - Hueco: G.A. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-05-25 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.A. JUNIO 1
+Fecha de Venta: 2026-06-04 00:00:00
+Grupo de compra: GLB ATEMPORARY
+Número de Huecos: 8
+  - Hueco: G.A. CAMISA M/C C. CAMISERO SET LINO VISCOSA (ECRU & KHAKI), Fecha Venta: 2026-06-04 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-06-04 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-06-04 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-06-04 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.A. SOBRECAMISA COLECCIÓN, Fecha Venta: 2026-06-04 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.A. PANTALON COLECCIÓN, Fecha Venta: 2026-06-04 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.A. BERMUDA COLECCIÓN, Fecha Venta: 2026-06-04 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - BERMUDA
+  - Hueco: G.A. BERMUDA COLECCIÓN, Fecha Venta: 2026-06-04 00:00:00, Grupo Compra: GLB ATEMPORARY,  Atributo: GB - BERMUDA
+
+Colección: G.U. MARZO 1
+Fecha de Venta: 2026-03-02 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 7
+  - Hueco: G.U. CAMISA M/C MINI CHECKS, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA M/C CANVAS BORDADOS, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. SOBRECAMISA COLECCIÓN, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.U. PANTALON RELAX DIGITAL PRINT (MSJ ESTAMPADOS), Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. PANTALON RELAX DIGITAL PRINT (MSJ ESTAMPADOS), Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-03-02 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.U. MARZO 2 / WILLY CHAVARRIA
+Fecha de Venta: 2026-03-12 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 8
+  - Hueco: G.U. CAMISA M/C MINI CHECKS, Fecha Venta: 2026-03-12 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-12 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-12 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. SOBRECAMISA COLECCIÓN, Fecha Venta: 2026-03-12 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.U. PANTALON COLECCIÓN, Fecha Venta: 2026-03-12 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. BERMUDA COLECCIÓN, Fecha Venta: 2026-03-12 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - BERMUDA
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-03-12 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-03-12 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.U. MSJ MARZO
+Fecha de Venta: 2026-03-19 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 6
+  - Hueco: G.U. CAMISA M/C STATE TEN, Fecha Venta: 2026-03-19 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-19 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. PANTALON COLECCIÓN, Fecha Venta: 2026-03-19 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. PANTALON COLECCIÓN, Fecha Venta: 2026-03-19 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. CAZADORA ESTAMPADA, Fecha Venta: 2026-03-19 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. CAZADORA ESTAMPADA, Fecha Venta: 2026-03-19 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.U. ABRIL 2
+Fecha de Venta: 2026-04-09 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 7
+  - Hueco: G.U. CAMISA M/C RAYAS BORDADO ESPALDA, Fecha Venta: 2026-04-09 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA M/C CANVAS BORDADOS, Fecha Venta: 2026-04-09 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-09 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. SOBRECAMISA COLECCIÓN, Fecha Venta: 2026-04-09 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.U. PANTALON COLECCIÓN, Fecha Venta: 2026-04-09 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. BERMUDA CARPINTERO PRINT (LET'S MUSIC), Fecha Venta: 2026-04-09 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - BERMUDA
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-04-09 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.U. MSJ ABRIL
+Fecha de Venta: 2026-04-20 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 6
+  - Hueco: G.U. CAMISA M/C STATE TEN, Fecha Venta: 2026-04-20 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA M/C STATE TEN, Fecha Venta: 2026-04-20 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. SOBRECAMISA PRINT SET (MSJ ESTAMPADOS ABRIL), Fecha Venta: 2026-04-20 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.U. SOBRECAMISA M/C ESTAMPADA, Fecha Venta: 2026-04-20 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.U. PANTALON CARPENTER PRINTED (MSJ ESTAMPADOS ABRIL), Fecha Venta: 2026-04-20 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. BERMUDA CARPINTERO PRINT (MSJ ESTAMPADOS ABRIL), Fecha Venta: 2026-04-20 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - BERMUDA
+
+Colección: G.U. MAYO 1
+Fecha de Venta: 2026-04-30 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 8
+  - Hueco: G.U. CAMISA M/C MINI CHECKS, Fecha Venta: 2026-04-30 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-30 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-30 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. SOBRECAMISA COLECCIÓN, Fecha Venta: 2026-04-30 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.U. PANTALON ESTRUCTURA (MSJ MARRAKECH), Fecha Venta: 2026-04-30 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. BERMUDA COLECCIÓN, Fecha Venta: 2026-04-30 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - BERMUDA
+  - Hueco: G.U. BERMUDA COLECCIÓN, Fecha Venta: 2026-04-30 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - BERMUDA
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-04-30 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.U. MAYO 2
+Fecha de Venta: 2026-05-11 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 8
+  - Hueco: G.U. CAMISA M/C RAYAS BORDADO ESPALDA, Fecha Venta: 2026-05-11 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA M/C CANVAS BORDADOS, Fecha Venta: 2026-05-11 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-11 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-11 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. SET TOXO 2.0 PRINT OVERSHIRT, Fecha Venta: 2026-05-11 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.U. MARBLE EFFECT PRINT BERMUDA, Fecha Venta: 2026-05-11 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - BERMUDA
+  - Hueco: G.U. BERMUDA COLECCIÓN, Fecha Venta: 2026-05-11 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - BERMUDA
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-05-11 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.U. MSJ MAYO
+Fecha de Venta: 2026-05-21 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 7
+  - Hueco: G.U. CAMISA M/C STATE TEN, Fecha Venta: 2026-05-21 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-21 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-21 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. SOBRECAMISA COLECCIÓN, Fecha Venta: 2026-05-21 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.U. PANTALON COLECCIÓN, Fecha Venta: 2026-05-21 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. PANTALON COLECCIÓN, Fecha Venta: 2026-05-21 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-05-21 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.U. JUNIO 1
+Fecha de Venta: 2026-06-01 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 8
+  - Hueco: G.U. CAMISA M/C RAYAS BORDADO ESPALDA, Fecha Venta: 2026-06-01 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-06-01 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-06-01 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-06-01 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.U. SOBRECAMISA COLECCIÓN, Fecha Venta: 2026-06-01 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.U. PANTALON COLECCIÓN, Fecha Venta: 2026-06-01 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. PANTALON COLECCIÓN, Fecha Venta: 2026-06-01 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. BERMUDA COLECCIÓN, Fecha Venta: 2026-06-01 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - BERMUDA
+
+Colección: G.T. 90'S ARCHIVE
+Fecha de Venta: 2026-03-26 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 6
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-26 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-03-26 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. SOBRECAMISA PIEL ANTE, Fecha Venta: 2026-03-26 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-03-26 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-03-26 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-03-26 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. SUMMER WARDROBE
+Fecha de Venta: 2026-04-13 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 15
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. SOBRECAMISA PIEL ANTE, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. BERMUDA COLECCIÓN, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - BERMUDA
+  - Hueco: G.T. BERMUDA COLECCIÓN, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - BERMUDA
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-04-13 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. MAYO 1
+Fecha de Venta: 2026-05-04 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 8
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-04 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-04 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-04 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-04 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. BERMUDA COLECCIÓN, Fecha Venta: 2026-05-04 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - BERMUDA
+  - Hueco: G.T. BERMUDA COLECCIÓN, Fecha Venta: 2026-05-04 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - BERMUDA
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-05-04 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-05-04 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. BLACK ORCHID
+Fecha de Venta: 2026-05-14 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 9
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-14 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA M/C BLACK ORCHID, Fecha Venta: 2026-05-14 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA M/C BLACK ORCHID, Fecha Venta: 2026-05-14 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA M/C BLACK ORCHID, Fecha Venta: 2026-05-14 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-05-14 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-05-14 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. BERMUDA COLECCIÓN, Fecha Venta: 2026-05-14 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - BERMUDA
+  - Hueco: G.T. BERMUDA COLECCIÓN, Fecha Venta: 2026-05-14 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - BERMUDA
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-05-14 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. MAYO 2
+Fecha de Venta: 2026-05-25 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 7
+  - Hueco: G.T. CAMISA M/L 100% ARRUGADO/ESTRUCTURA LINO, Fecha Venta: 2026-05-25 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-25 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-25 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-05-25 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-05-25 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. BERMUDA COLECCIÓN, Fecha Venta: 2026-05-25 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - BERMUDA
+  - Hueco: G.T. CAZADORA CROCHET BONDED (CRAFTED MIDNIGHT), Fecha Venta: 2026-05-25 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. JUNIO 1
+Fecha de Venta: 2026-06-01 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 9
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-06-01 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-06-01 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-06-01 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. CAMISA ALTO VERANO COLECCIÓN, Fecha Venta: 2026-06-01 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - CAMISERÍA ALTO VERANO
+  - Hueco: G.T. PANTALON COLECCIÓN, Fecha Venta: 2026-06-01 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. BERMUDA COLECCIÓN, Fecha Venta: 2026-06-01 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - BERMUDA
+  - Hueco: G.T. BERMUDA COLECCIÓN, Fecha Venta: 2026-06-01 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - BERMUDA
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-06-01 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-06-01 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.U. CNY URBAN DROP 2 (E) ASIA
+Fecha de Venta: 2026-01-15 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 8
+  - Hueco: G.U. SOBRECAMISA PATCHWORK (CNY) (E) ASIA, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.U. PANTALON COLECCION (E) ASIA, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. PANTALON COLECCION (E) ASIA, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. SAMO JACKET (CNY) (E) ASIA, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN (E) ASIA, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN (E) ASIA, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. CAZADORA PU CON CAPUCHA (CNY) (E) ASIA, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. CAZADORA AZUL LAVADA (CNY) (E) ASIA, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.U. CNY URBAN DROP 1 (E) ASIA
+Fecha de Venta: 2025-12-25 00:00:00
+Grupo de compra: GLB URBAN
+Número de Huecos: 8
+  - Hueco: G.U. SOBRECAMISA PATCHWORK (CNY) (E) ASIA, Fecha Venta: 2025-12-25 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - SOBRECAMISA
+  - Hueco: G.U. PANTALON COLECCION (E) ASIA, Fecha Venta: 2025-12-25 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. PANTALON COLECCION (E) ASIA, Fecha Venta: 2025-12-25 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.U. SAMO JACKET (CNY) (E) ASIA, Fecha Venta: 2025-12-25 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN (E) ASIA, Fecha Venta: 2025-12-25 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. PRENDA EXTERIOR COLECCIÓN (E) ASIA, Fecha Venta: 2025-12-25 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. CAZADORA PU CON CAPUCHA (CNY) (E) ASIA, Fecha Venta: 2025-12-25 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.U. CAZADORA AZUL LAVADA (CNY) (E) ASIA, Fecha Venta: 2025-12-25 00:00:00, Grupo Compra: GLB URBAN,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. CNY TREND DROP 1 (E) ASIA
+Fecha de Venta: 2025-12-25 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 7
+  - Hueco: G.T. PANTALON COLECCION (E) ASIA, Fecha Venta: 2025-12-25 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCION (E) ASIA, Fecha Venta: 2025-12-25 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN (E) ASIA, Fecha Venta: 2025-12-25 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN (E) ASIA, Fecha Venta: 2025-12-25 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN (E) ASIA, Fecha Venta: 2025-12-25 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN (E) ASIA, Fecha Venta: 2025-12-25 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN (E) ASIA, Fecha Venta: 2025-12-25 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. CNY TREND DROP 2 (E) ASIA
+Fecha de Venta: 2026-01-15 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 7
+  - Hueco: G.T. PANTALON COLECCION (E) ASIA, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PANTALON COLECCION (E) ASIA, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PANTALÓN COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN (E) ASIA, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN (E) ASIA, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN (E) ASIA, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN (E) ASIA, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN (E) ASIA, Fecha Venta: 2026-01-15 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+
+Colección: G.T. LEATHER ISSUE
+Fecha de Venta: 2026-02-16 00:00:00
+Grupo de compra: GLB TREND
+Número de Huecos: 4
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-16 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-16 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-16 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+  - Hueco: G.T. PRENDA EXTERIOR COLECCIÓN, Fecha Venta: 2026-02-16 00:00:00, Grupo Compra: GLB TREND,  Atributo: GB - PRENDA EXTERIOR COLECCIÓN
+

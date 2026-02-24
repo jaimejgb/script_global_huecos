@@ -1,0 +1,47 @@
+{
+    "urns_grupo_comprador": {
+        "GLB ATEMPORARY": [
+            "urn:BUYERCODE:569c2cb0-419e-466e-b305-ef56a353991b",
+            "urn:BUYERCODE:df90c92d-c051-4e50-b72b-07e240c61978",
+            "urn:BUYERCODE:75f2b737-06dd-4399-9206-a6c11b65138e"
+        ],
+        "GLB URBAN": [
+            "urn:BUYERCODE:8ce397b0-ec91-46d9-a464-eba4f35f4fb2",
+            "urn:BUYERCODE:7cdbb25c-6721-42e4-b97e-5bd22f7f746d",
+            "urn:BUYERCODE:79963f0c-b7dd-425b-9fe3-9297d02d0c2e"
+        ],
+        "GLB TREND": [
+            "urn:BUYERCODE:dfa75494-dd6c-4ae2-94dc-51a6cc849ddb",
+            "urn:BUYERCODE:7011326d-9a72-4d56-8a02-22fdf5b0ad6b",
+            "urn:BUYERCODE:5c5c7f24-f476-4438-bbbc-624c6285257e"
+        ]
+    },
+    "urns_familias": {
+        "PANTALON": "urn:FAMILY:17290843-e14c-4652-a449-fda04c8b116b",
+        "CAMISA": "urn:FAMILY:b53f4206-aa18-41f6-a2b7-2f5a25fdd530",
+        "ABRIGO": "urn:FAMILY:ac3dd86d-f41a-4b15-8db6-67093596a02b",
+        "CAZADORA": "urn:FAMILY:ecbc8a49-78fa-4b8e-9f62-3d8c29156d89"
+    },
+    "urns:subfamilias": {
+        "PANTALON": "urn:FAMILY:17290843-e14c-4652-a449-fda04c8b116b",
+        "CAMISA": "urn:FAMILY:b53f4206-aa18-41f6-a2b7-2f5a25fdd530",
+        "ABRIGO": "urn:FAMILY:ac3dd86d-f41a-4b15-8db6-67093596a02b",
+        "CAZADORA": "urn:FAMILY:ecbc8a49-78fa-4b8e-9f62-3d8c29156d89"
+    },
+    "urns_atributos": {
+        "GB - SOBRECAMISA": "urn:ATTRIBUTE:0baada16-05b0-401f-8ac4-c13b2e99b54b",
+        "GB - CAMISERÍA BÁSICA": "urn:ATTRIBUTE:21406f1c-ca9f-41d2-afcb-1107930e0439",
+        "GB - CAMISERÍA ALTO VERANO": "urn:ATTRIBUTE:3307e5e5-bab0-4c66-9e7a-8fef52148878"
+    },
+    "urns_segundos_atributos": {
+        "GB - SOBRECAMISA": "urn:ATTRIBUTE:0baada16-05b0-401f-8ac4-c13b2e99b54b",
+        "GB - CAMISERÍA BÁSICA": "urn:ATTRIBUTE:21406f1c-ca9f-41d2-afcb-1107930e0439",
+        "GB - CAMISERÍA ALTO VERANO": "urn:ATTRIBUTE:3307e5e5-bab0-4c66-9e7a-8fef52148878"
+    },
+    "colores": {
+        "503": "c1849669-7700-493f-809f-96b03aca9516",
+        "250": 
+    },
+    "campaign_urn": "urn:CAMPAIGN:c1849669-7700-493f-809f-96b03aca9516",
+    "market_urn": "urn:MARKET:16bc5233-797d-4f75-b1c5-6225302af1ee"
+}

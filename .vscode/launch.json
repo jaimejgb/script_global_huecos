@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug (test_sin_coleccion.xlsx)",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/script_huecos.py",
+            "console": "integratedTerminal",
+            "args": [
+                "${workspaceFolder}/test_sin_coleccion.xlsx",
+                "--sheet",
+                "LISTADO MCC",
+                "--skiprows",
+                "1"
+            ],
+            "cwd": "${workspaceFolder}",
+            "justMyCode": true
+        }
+    ]
+}
