@@ -95,6 +95,8 @@ except Exception as e:
 urns_grupo_comprador = cfg.get("urns_grupo_comprador", DEFAULT_URNS["urns_grupo_comprador"])
 urns_atributos = cfg.get("urns_atributos", DEFAULT_URNS["urns_atributos"])
 urns_familias = cfg.get("urns_familias", DEFAULT_URNS.get("urn_familias", {}))
+# soportar clave alternativa para subfamilias: 'urns_subfamilias' o 'urns:subfamilias'
+urns_subfamilias = cfg.get("urns_subfamilias", cfg.get("urns:subfamilias", {}))
 DEFAULT_CAMPAIGN_URN = cfg.get("campaign_urn", DEFAULT_URNS["campaign_urn"])
 MARKET_URN = cfg.get("market_urn", DEFAULT_URNS["market_urn"])
 
@@ -240,6 +242,14 @@ for index, row in df.iterrows():
             familias_nombres = [f.strip() for f in str(familias_cell).split(',') if f.strip()]
             familias_urns = [urns_familias.get(name) for name in familias_nombres]
             familias_urns = [u for u in familias_urns if u]  # eliminar None
+
+        # Leer Subfamilia opcional y mapear a URN desde urns_subfamilias
+        subfamilia_cell = row.get('Subfamilia', '') if isinstance(row, (dict,)) else row.get('Subfamilia', '')
+        if pd.notna(subfamilia_cell) and str(subfamilia_cell).strip():
+            sub_name = str(subfamilia_cell).strip()
+            sub_urn = urns_subfamilias.get(sub_name) or urns_subfamilias.get(sub_name.upper()) or urns_subfamilias.get(sub_name.lower())
+            if sub_urn:
+                familias_urns.append(sub_urn)
 
         # Si hay colección, crear o actualizar la colección
         if pd.notna(nombre_coleccion) and str(nombre_coleccion).strip():
